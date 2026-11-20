@@ -1,8 +1,5 @@
 # Generacion de Imágenes con Deep Learning
 
-## Descripcion
-Proyecto académico enfocado en la implementación de modelos generativos de Deep Learning para la creación de imágenes sintéticas mediante redes GAN/DCGAN y modelos de difusión Stable Diffusion con ajuste fino LoRA.
-
 ## Tecnologias utilizadas
 - Python
 - PyTorch y Torchvision
